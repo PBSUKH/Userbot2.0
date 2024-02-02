@@ -9,7 +9,7 @@
         "pyrogram",
         "hellbot"
     ],
-    "repository": "https://github.com/Badhacker98/PBX_2.0/",
+    "repository": "https://github.com/PBSUKH/Userbot2.0",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
@@ -55,7 +55,7 @@
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "Badhacker98/PBX_2.0",
+            "value": "PBSUKH/Userbotplugin2.0",
             "required": false
         }
     },
